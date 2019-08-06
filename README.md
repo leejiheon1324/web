@@ -13,7 +13,6 @@
 <li><a href="3.html"target="blank"title="JavaScript">JavaScript</a></li>
  </ol>
  <div id="article">
-<h2>CSS</h2>
 <p>
 </p>
   연습용
