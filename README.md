@@ -1,5 +1,4 @@
-<!doctype html>
-<html>
+
 <head>
 
 <title>index</title>
@@ -27,4 +26,4 @@
 </div>
 </div>
 </body>
-</html>
+
